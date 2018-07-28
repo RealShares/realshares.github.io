@@ -11,6 +11,7 @@ The source code adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.h
 
 - Add author, description, and repository fields to package.json.
 - Add linting and formatting tools.
+- Integrate react-bootstrap.
 
 ## [0.1.1][] - 2018-07-28
 
