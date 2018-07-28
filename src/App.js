@@ -9,7 +9,7 @@ class App extends Component {
           <h1 className="App-title">RealShares</h1>
         </header>
         <p className="App-intro">
-          Fractional ownership of real estate..
+          Fractional ownership of real estate.
         </p>
       </div>
     );
