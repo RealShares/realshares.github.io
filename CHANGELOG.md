@@ -7,6 +7,10 @@ The source code adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.h
 
 ## [Unreleased]
 
+### Added
+
+- Add author, description, and repository fields to package.json.
+
 ## [0.1.1][] - 2018-07-28
 
 ### Added

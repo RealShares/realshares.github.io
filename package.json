@@ -2,6 +2,12 @@
   "name": "realshares.github.io",
   "version": "0.1.1",
   "private": true,
+  "description": "Website for RealShares.",
+  "author": "Marcus R. Brown <me@igetgam.es>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RealShares/realshares.github.io.git"
+  },
   "homepage": "https://realshares.io",
   "dependencies": {
     "react": "^16.4.1",
