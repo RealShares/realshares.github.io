@@ -7,6 +7,8 @@ The source code adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.h
 
 ## [Unreleased]
 
+## [0.1.1][] - 2018-07-28
+
 ### Added
 
 - Create the repository and initial scaffolding.
@@ -17,3 +19,7 @@ The source code adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.h
 ### Removed
 
 - Remove create-react-app boilerplate.
+
+
+[Unreleased]: https://github.com/RealShares/realshares.github.io/compare/v0.1.1...HEAD
+[0.1.1]: https://github.com/RealShares/realshares.github.io/tree/v0.1.1
