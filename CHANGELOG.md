@@ -11,3 +11,7 @@ The source code adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.h
 
 - Create the repository and initial scaffolding.
 - Add CHANGELOG.md.
+
+### Removed
+
+- Remove create-react-app boilerplate.
